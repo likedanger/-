@@ -5,6 +5,7 @@
 ## 2주차 과제 (2020.06.03)
 
 ## 3주차 과제 (2020.06.10)
+[- 학습률 최적화, 군집 분석 구현, Cost Function 구현](https://github.com/likedanger/AIschool/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
 
 ## 4주차 과제 (2020.06.16)
 [- 딥러닝 용어 정리, 클론코딩, 딥러닝 순전파& 역전파 계산](https://github.com/likedanger/AIschool/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
